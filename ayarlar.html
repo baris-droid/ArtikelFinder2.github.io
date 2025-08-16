@@ -19,52 +19,77 @@
 
     <div id="menu-placeholder"></div>
 
-    <div class="container text-left">
-        <h1>Ayarlar</h1>
+    <div class="main-layout">
+    
+        <div class="ad-container-left desktop-ad">
+            <div class="ad-placeholder">
+                <p>REKLAM ALANI</p>
+                <p>160x600 px</p>
+            </div>
+        </div>
+		
+        <div class="ad-container-top mobile-ad">
+            <div class="ad-placeholder-top">
+                <p>YATAY REKLAM ALANI</p>
+                <p>320x50 px</p>
+            </div>
+        </div>
+		
+		<div class="container text-left">
+			<h1>Ayarlar</h1>
         
-        <div class="settings-section">
-            <h2>Test Ayarları</h2>
-            <div class="setting-item">
-                <label for="quizLength">Bir testteki soru sayısı:</label>
-                <select id="quizLength">
-                    <option value="10">10 Soru</option>
-                    <option value="25">25 Soru</option>
-                    <option value="50">50 Soru</option>
-                    <option value="0">Tümü</option>
-                </select>
+			<div class="settings-section">
+				<h2>Test Ayarları</h2>
+				<div class="setting-item">
+					<label for="quizLength">Bir testteki soru sayısı:</label>
+					<select id="quizLength">
+						<option value="10">10 Soru</option>
+						<option value="25">25 Soru</option>
+						<option value="50">50 Soru</option>
+						<option value="0">Tümü</option>
+					</select>
+				</div>
+			</div>
+
+			<div class="settings-section">
+				<h2>Günlük Hedef Ayarları</h2>
+				<div class="setting-item">
+					<label for="dailyGoal">Günlük seri (streak) için hedef soru sayısı:</label>
+					<div class="range-container">
+						<input type="range" id="dailyGoal" min="5" max="25" step="5" value="10">
+						<span id="dailyGoalValue">10</span>
+					</div>
+				</div>
+			</div>
+        
+			<div class="settings-section">
+				<h2>Veri Yönetimi</h2>
+				<div class="setting-item">
+					<p>Favorilerinizi ve test istatistiklerinizi bir dosyaya yedekleyebilirsiniz.</p>
+					<button id="exportDataButton" class="control-button">Verileri Dışa Aktar (Yedekle)</button>
+				</div>
+				<div class="setting-item">
+					<p>Daha önce yedeklediğiniz `artikelfinder_verilerim.json` dosyasını seçerek verilerinizi geri yükleyebilirsiniz.</p>
+					<div class="import-container">
+						<input type="file" id="importDataInput" accept=".json">
+						<label for="importDataInput" class="custom-file-upload" id="fileUploadLabel">Dosya Seç</label>
+						<button id="importDataButton" class="control-button primary">Yükle ve Geri Yükle</button>
+					</div>
+				</div>
+				<div class="setting-item">
+					<p>Tüm favorilerinizi, test istatistiklerinizi ve günlük seri bilginizi kalıcı olarak siler.</p>
+					<button id="resetAllDataButton" class="danger-button">Tüm Verileri Sıfırla</button>
+				</div>
+			</div>
+		</div>
+		
+        <div class="ad-container-right desktop-ad">
+            <div class="ad-placeholder">
+                <p>REKLAM ALANI</p>
+                <p>160x600 px</p>
             </div>
         </div>
 
-        <div class="settings-section">
-            <h2>Günlük Hedef Ayarları</h2>
-            <div class="setting-item">
-                <label for="dailyGoal">Günlük seri (streak) için hedef soru sayısı:</label>
-                <div class="range-container">
-                    <input type="range" id="dailyGoal" min="5" max="25" step="5" value="10">
-                    <span id="dailyGoalValue">10</span>
-                </div>
-            </div>
-        </div>
-        
-        <div class="settings-section">
-            <h2>Veri Yönetimi</h2>
-            <div class="setting-item">
-                <p>Favorilerinizi ve test istatistiklerinizi bir dosyaya yedekleyebilirsiniz.</p>
-                <button id="exportDataButton" class="control-button">Verileri Dışa Aktar (Yedekle)</button>
-            </div>
-			<div class="setting-item">
-				<p>Daha önce yedeklediğiniz `artikelfinder_verilerim.json` dosyasını seçerek verilerinizi geri yükleyebilirsiniz.</p>
-				<div class="import-container">
-					<input type="file" id="importDataInput" accept=".json">
-					<label for="importDataInput" class="custom-file-upload" id="fileUploadLabel">Dosya Seç</label>
-					<button id="importDataButton" class="control-button primary">Yükle ve Geri Yükle</button>
-				</div>
-			</div>
-            <div class="setting-item">
-                <p>Tüm favorilerinizi, test istatistiklerinizi ve günlük seri bilginizi kalıcı olarak siler.</p>
-                <button id="resetAllDataButton" class="danger-button">Tüm Verileri Sıfırla</button>
-            </div>
-        </div>
     </div>
 
     <script src="main.js"></script>
