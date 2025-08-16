@@ -1,0 +1,2102 @@
+[
+    {
+        "id": 1,
+        "word": "Hund",
+        "article": "der",
+        "turkish": "Köpek",
+        "plural": "die Hunde"
+    },
+    {
+        "id": 2,
+        "word": "Katze",
+        "article": "die",
+        "turkish": "Kedi",
+        "plural": "die Katzen"
+    },
+    {
+        "id": 3,
+        "word": "Buch",
+        "article": "das",
+        "turkish": "Kitap",
+        "plural": "die Bücher"
+    },
+    {
+        "id": 4,
+        "word": "Tisch",
+        "article": "der",
+        "turkish": "Masa",
+        "plural": "die Tische"
+    },
+    {
+        "id": 5,
+        "word": "Stuhl",
+        "article": "der",
+        "turkish": "Sandalye",
+        "plural": "die Stühle"
+    },
+    {
+        "id": 6,
+        "word": "Lampe",
+        "article": "die",
+        "turkish": "Lamba",
+        "plural": "die Lampen"
+    },
+    {
+        "id": 7,
+        "word": "Fenster",
+        "article": "das",
+        "turkish": "Pencere",
+        "plural": "die Fenster"
+    },
+    {
+        "id": 8,
+        "word": "Haus",
+        "article": "das",
+        "turkish": "Ev",
+        "plural": "die Häuser"
+    },
+    {
+        "id": 9,
+        "word": "Tür",
+        "article": "die",
+        "turkish": "Kapı",
+        "plural": "die Türen"
+    },
+    {
+        "id": 10,
+        "word": "Auto",
+        "article": "das",
+        "turkish": "Araba",
+        "plural": "die Autos"
+    },
+    {
+        "id": 11,
+        "word": "Apfel",
+        "article": "der",
+        "turkish": "Elma",
+        "plural": "die Äpfel"
+    },
+    {
+        "id": 12,
+        "word": "Banane",
+        "article": "die",
+        "turkish": "Muz",
+        "plural": "die Bananen"
+    },
+    {
+        "id": 13,
+        "word": "Wasser",
+        "article": "das",
+        "turkish": "Su",
+        "plural": "die Wässer"
+    },
+    {
+        "id": 14,
+        "word": "Milch",
+        "article": "die",
+        "turkish": "Süt",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 15,
+        "word": "Brot",
+        "article": "das",
+        "turkish": "Ekmek",
+        "plural": "die Brote"
+    },
+    {
+        "id": 16,
+        "word": "Mann",
+        "article": "der",
+        "turkish": "Adam",
+        "plural": "die Männer"
+    },
+    {
+        "id": 17,
+        "word": "Frau",
+        "article": "die",
+        "turkish": "Kadın",
+        "plural": "die Frauen"
+    },
+    {
+        "id": 18,
+        "word": "Kind",
+        "article": "das",
+        "turkish": "Çocuk",
+        "plural": "die Kinder"
+    },
+    {
+        "id": 19,
+        "word": "Schule",
+        "article": "die",
+        "turkish": "Okul",
+        "plural": "die Schulen"
+    },
+    {
+        "id": 20,
+        "word": "Lehrer",
+        "article": "der",
+        "turkish": "Öğretmen (Erkek)",
+        "plural": "die Lehrer"
+    },
+    {
+        "id": 21,
+        "word": "Lehrerin",
+        "article": "die",
+        "turkish": "Öğretmen (Kadın)",
+        "plural": "die Lehrerinnen"
+    },
+    {
+        "id": 22,
+        "word": "Sonne",
+        "article": "die",
+        "turkish": "Güneş",
+        "plural": "die Sonnen"
+    },
+    {
+        "id": 23,
+        "word": "Mond",
+        "article": "der",
+        "turkish": "Ay (Gökcismi)",
+        "plural": "die Monde"
+    },
+    {
+        "id": 24,
+        "word": "Stern",
+        "article": "der",
+        "turkish": "Yıldız",
+        "plural": "die Sterne"
+    },
+    {
+        "id": 25,
+        "word": "Baum",
+        "article": "der",
+        "turkish": "Ağaç",
+        "plural": "die Bäume"
+    },
+    {
+        "id": 26,
+        "word": "Blume",
+        "article": "die",
+        "turkish": "Çiçek",
+        "plural": "die Blumen"
+    },
+    {
+        "id": 27,
+        "word": "Berg",
+        "article": "der",
+        "turkish": "Dağ",
+        "plural": "die Berge"
+    },
+    {
+        "id": 28,
+        "word": "Fluss",
+        "article": "der",
+        "turkish": "Nehir",
+        "plural": "die Flüsse"
+    },
+    {
+        "id": 29,
+        "word": "Meer",
+        "article": "das",
+        "turkish": "Deniz",
+        "plural": "die Meere"
+    },
+    {
+        "id": 30,
+        "word": "Stadt",
+        "article": "die",
+        "turkish": "Şehir",
+        "plural": "die Städte"
+    },
+    {
+        "id": 31,
+        "word": "Land",
+        "article": "das",
+        "turkish": "Ülke / Kır",
+        "plural": "die Länder"
+    },
+    {
+        "id": 32,
+        "word": "Kaffee",
+        "article": "der",
+        "turkish": "Kahve",
+        "plural": "die Kaffees"
+    },
+    {
+        "id": 33,
+        "word": "Tee",
+        "article": "der",
+        "turkish": "Çay",
+        "plural": "die Tees"
+    },
+    {
+        "id": 34,
+        "word": "Saft",
+        "article": "der",
+        "turkish": "Meyve Suyu",
+        "plural": "die Säfte"
+    },
+    {
+        "id": 35,
+        "word": "Käse",
+        "article": "der",
+        "turkish": "Peynir",
+        "plural": "die Käse"
+    },
+    {
+        "id": 36,
+        "word": "Butter",
+        "article": "die",
+        "turkish": "Tereyağı",
+        "plural": "die Buttern"
+    },
+    {
+        "id": 37,
+        "word": "Zucker",
+        "article": "der",
+        "turkish": "Şeker",
+        "plural": "die Zucker"
+    },
+    {
+        "id": 38,
+        "word": "Salz",
+        "article": "das",
+        "turkish": "Tuz",
+        "plural": "die Salze"
+    },
+    {
+        "id": 39,
+        "word": "Pfeffer",
+        "article": "der",
+        "turkish": "Biber",
+        "plural": "die Pfeffer"
+    },
+    {
+        "id": 40,
+        "word": "Computer",
+        "article": "der",
+        "turkish": "Bilgisayar",
+        "plural": "die Computer"
+    },
+    {
+        "id": 41,
+        "word": "Handy",
+        "article": "das",
+        "turkish": "Cep Telefonu",
+        "plural": "die Handys"
+    },
+    {
+        "id": 42,
+        "word": "Uhr",
+        "article": "die",
+        "turkish": "Saat",
+        "plural": "die Uhren"
+    },
+    {
+        "id": 43,
+        "word": "Geld",
+        "article": "das",
+        "turkish": "Para",
+        "plural": "die Gelder"
+    },
+    {
+        "id": 44,
+        "word": "Schlüssel",
+        "article": "der",
+        "turkish": "Anahtar",
+        "plural": "die Schlüssel"
+    },
+    {
+        "id": 45,
+        "word": "Tasche",
+        "article": "die",
+        "turkish": "Çanta",
+        "plural": "die Taschen"
+    },
+    {
+        "id": 46,
+        "word": "Jacke",
+        "article": "die",
+        "turkish": "Ceket",
+        "plural": "die Jacken"
+    },
+    {
+        "id": 47,
+        "word": "Hose",
+        "article": "die",
+        "turkish": "Pantolon",
+        "plural": "die Hosen"
+    },
+    {
+        "id": 48,
+        "word": "Schuh",
+        "article": "der",
+        "turkish": "Ayakkabı",
+        "plural": "die Schuhe"
+    },
+    {
+        "id": 49,
+        "word": "Hemd",
+        "article": "das",
+        "turkish": "Gömlek",
+        "plural": "die Hemden"
+    },
+    {
+        "id": 50,
+        "word": "Kleid",
+        "article": "das",
+        "turkish": "Elbise",
+        "plural": "die Kleider"
+    },
+    {
+        "id": 51,
+        "word": "Rock",
+        "article": "der",
+        "turkish": "Etek",
+        "plural": "die Röcke"
+    },
+    {
+        "id": 52,
+        "word": "Krankenhaus",
+        "article": "das",
+        "turkish": "Hastane",
+        "plural": "die Krankenhäuser"
+    },
+    {
+        "id": 53,
+        "word": "Apotheke",
+        "article": "die",
+        "turkish": "Eczane",
+        "plural": "die Apotheken"
+    },
+    {
+        "id": 54,
+        "word": "Bahnhof",
+        "article": "der",
+        "turkish": "Tren İstasyonu",
+        "plural": "die Bahnhöfe"
+    },
+    {
+        "id": 55,
+        "word": "Flughafen",
+        "article": "der",
+        "turkish": "Havalimanı",
+        "plural": "die Flughäfen"
+    },
+    {
+        "id": 56,
+        "word": "Straße",
+        "article": "die",
+        "turkish": "Cadde / Sokak",
+        "plural": "die Straßen"
+    },
+    {
+        "id": 57,
+        "word": "Platz",
+        "article": "der",
+        "turkish": "Meydan / Yer",
+        "plural": "die Plätze"
+    },
+    {
+        "id": 58,
+        "word": "Bruder",
+        "article": "der",
+        "turkish": "Erkek Kardeş",
+        "plural": "die Brüder"
+    },
+    {
+        "id": 59,
+        "word": "Schwester",
+        "article": "die",
+        "turkish": "Kız Kardeş",
+        "plural": "die Schwestern"
+    },
+    {
+        "id": 60,
+        "word": "Mutter",
+        "article": "die",
+        "turkish": "Anne",
+        "plural": "die Mütter"
+    },
+    {
+        "id": 61,
+        "word": "Vater",
+        "article": "der",
+        "turkish": "Baba",
+        "plural": "die Väter"
+    },
+    {
+        "id": 62,
+        "word": "Sohn",
+        "article": "der",
+        "turkish": "Oğul",
+        "plural": "die Söhne"
+    },
+    {
+        "id": 63,
+        "word": "Tochter",
+        "article": "die",
+        "turkish": "Kız Evlat",
+        "plural": "die Töchter"
+    },
+    {
+        "id": 64,
+        "word": "Freund",
+        "article": "der",
+        "turkish": "Arkadaş (Erkek)",
+        "plural": "die Freunde"
+    },
+    {
+        "id": 65,
+        "word": "Freundin",
+        "article": "die",
+        "turkish": "Arkadaş (Kız)",
+        "plural": "die Freundinnen"
+    },
+    {
+        "id": 66,
+        "word": "Woche",
+        "article": "die",
+        "turkish": "Hafta",
+        "plural": "die Wochen"
+    },
+    {
+        "id": 67,
+        "word": "Tag",
+        "article": "der",
+        "turkish": "Gün",
+        "plural": "die Tage"
+    },
+    {
+        "id": 68,
+        "word": "Monat",
+        "article": "der",
+        "turkish": "Ay (Zaman)",
+        "plural": "die Monate"
+    },
+    {
+        "id": 69,
+        "word": "Jahr",
+        "article": "das",
+        "turkish": "Yıl",
+        "plural": "die Jahre"
+    },
+    {
+        "id": 70,
+        "word": "Zeit",
+        "article": "die",
+        "turkish": "Zaman",
+        "plural": "die Zeiten"
+    },
+    {
+        "id": 71,
+        "word": "Stunde",
+        "article": "die",
+        "turkish": "Saat (süre)",
+        "plural": "die Stunden"
+    },
+    {
+        "id": 72,
+        "word": "Minute",
+        "article": "die",
+        "turkish": "Dakika",
+        "plural": "die Minuten"
+    },
+    {
+        "id": 73,
+        "word": "Sekunde",
+        "article": "die",
+        "turkish": "Saniye",
+        "plural": "die Sekunden"
+    },
+    {
+        "id": 74,
+        "word": "Kopf",
+        "article": "der",
+        "turkish": "Kafa",
+        "plural": "die Köpfe"
+    },
+    {
+        "id": 75,
+        "word": "Auge",
+        "article": "das",
+        "turkish": "Göz",
+        "plural": "die Augen"
+    },
+    {
+        "id": 76,
+        "word": "Nase",
+        "article": "die",
+        "turkish": "Burun",
+        "plural": "die Nasen"
+    },
+    {
+        "id": 77,
+        "word": "Mund",
+        "article": "der",
+        "turkish": "Ağız",
+        "plural": "die Münder"
+    },
+    {
+        "id": 78,
+        "word": "Hand",
+        "article": "die",
+        "turkish": "El",
+        "plural": "die Hände"
+    },
+    {
+        "id": 79,
+        "word": "Fuß",
+        "article": "der",
+        "turkish": "Ayak",
+        "plural": "die Füße"
+    },
+    {
+        "id": 80,
+        "word": "Herz",
+        "article": "das",
+        "turkish": "Kalp",
+        "plural": "die Herzen"
+    },
+    {
+        "id": 81,
+        "word": "Arzt",
+        "article": "der",
+        "turkish": "Doktor (Erkek)",
+        "plural": "die Ärzte"
+    },
+    {
+        "id": 82,
+        "word": "Ärztin",
+        "article": "die",
+        "turkish": "Doktor (Kadın)",
+        "plural": "die Ärztinnen"
+    },
+    {
+        "id": 83,
+        "word": "Anwalt",
+        "article": "der",
+        "turkish": "Avukat (Erkek)",
+        "plural": "die Anwälte"
+    },
+    {
+        "id": 84,
+        "word": "Ingenieur",
+        "article": "der",
+        "turkish": "Mühendis (Erkek)",
+        "plural": "die Ingenieure"
+    },
+    {
+        "id": 85,
+        "word": "Student",
+        "article": "der",
+        "turkish": "Öğrenci (Üniversite)",
+        "plural": "die Studenten"
+    },
+    {
+        "id": 86,
+        "word": "Wetter",
+        "article": "das",
+        "turkish": "Hava Durumu",
+        "plural": "die Wetter"
+    },
+    {
+        "id": 87,
+        "word": "Regen",
+        "article": "der",
+        "turkish": "Yağmur",
+        "plural": "die Regen"
+    },
+    {
+        "id": 88,
+        "word": "Schnee",
+        "article": "der",
+        "turkish": "Kar",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 89,
+        "word": "Wind",
+        "article": "der",
+        "turkish": "Rüzgar",
+        "plural": "die Winde"
+    },
+    {
+        "id": 90,
+        "word": "Himmel",
+        "article": "der",
+        "turkish": "Gökyüzü",
+        "plural": "die Himmel"
+    },
+    {
+        "id": 91,
+        "word": "Wohnung",
+        "article": "die",
+        "turkish": "Daire",
+        "plural": "die Wohnungen"
+    },
+    {
+        "id": 92,
+        "word": "Zimmer",
+        "article": "das",
+        "turkish": "Oda",
+        "plural": "die Zimmer"
+    },
+    {
+        "id": 93,
+        "word": "Küche",
+        "article": "die",
+        "turkish": "Mutfak",
+        "plural": "die Küchen"
+    },
+    {
+        "id": 94,
+        "word": "Badezimmer",
+        "article": "das",
+        "turkish": "Banyo",
+        "plural": "die Badezimmer"
+    },
+    {
+        "id": 95,
+        "word": "Bett",
+        "article": "das",
+        "turkish": "Yatak",
+        "plural": "die Betten"
+    },
+    {
+        "id": 96,
+        "word": "Frage",
+        "article": "die",
+        "turkish": "Soru",
+        "plural": "die Fragen"
+    },
+    {
+        "id": 97,
+        "word": "Antwort",
+        "article": "die",
+        "turkish": "Cevap",
+        "plural": "die Antworten"
+    },
+    {
+        "id": 98,
+        "word": "Problem",
+        "article": "das",
+        "turkish": "Problem",
+        "plural": "die Probleme"
+    },
+    {
+        "id": 99,
+        "word": "Lösung",
+        "article": "die",
+        "turkish": "Çözüm",
+        "plural": "die Lösungen"
+    },
+    {
+        "id": 100,
+        "word": "Liebe",
+        "article": "die",
+        "turkish": "Aşk / Sevgi",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 101,
+        "word": "Glück",
+        "article": "das",
+        "turkish": "Şans / Mutluluk",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 102,
+        "word": "Farbe",
+        "article": "die",
+        "turkish": "Renk",
+        "plural": "die Farben"
+    },
+    {
+        "id": 103,
+        "word": "Musik",
+        "article": "die",
+        "turkish": "Müzik",
+        "plural": "die Musiken"
+    },
+    {
+        "id": 104,
+        "word": "Film",
+        "article": "der",
+        "turkish": "Film",
+        "plural": "die Filme"
+    },
+    {
+        "id": 105,
+        "word": "Spiel",
+        "article": "das",
+        "turkish": "Oyun",
+        "plural": "die Spiele"
+    },
+    {
+        "id": 106,
+        "word": "Essen",
+        "article": "das",
+        "turkish": "Yemek",
+        "plural": "die Essen"
+    },
+    {
+        "id": 107,
+        "word": "Trinken",
+        "article": "das",
+        "turkish": "İçecek",
+        "plural": "die Trinken"
+    },
+    {
+        "id": 108,
+        "word": "Reise",
+        "article": "die",
+        "turkish": "Seyahat",
+        "plural": "die Reisen"
+    },
+    {
+        "id": 109,
+        "word": "Urlaub",
+        "article": "der",
+        "turkish": "Tatil",
+        "plural": "die Urlaube"
+    },
+    {
+        "id": 110,
+        "word": "Wort",
+        "article": "das",
+        "turkish": "Kelime",
+        "plural": "die Wörter"
+    },
+    {
+        "id": 111,
+        "word": "Satz",
+        "article": "der",
+        "turkish": "Cümle",
+        "plural": "die Sätze"
+    },
+    {
+        "id": 112,
+        "word": "Sprache",
+        "article": "die",
+        "turkish": "Dil",
+        "plural": "die Sprachen"
+    },
+    {
+        "id": 113,
+        "word": "Morgen",
+        "article": "der",
+        "turkish": "Sabah",
+        "plural": "die Morgen"
+    },
+    {
+        "id": 114,
+        "word": "Abend",
+        "article": "der",
+        "turkish": "Akşam",
+        "plural": "die Abende"
+    },
+    {
+        "id": 115,
+        "word": "Nacht",
+        "article": "die",
+        "turkish": "Gece",
+        "plural": "die Nächte"
+    },
+    {
+        "id": 116,
+        "word": "Supermarkt",
+        "article": "der",
+        "turkish": "Süpermarket",
+        "plural": "die Supermärkte"
+    },
+    {
+        "id": 117,
+        "word": "Bäckerei",
+        "article": "die",
+        "turkish": "Fırın",
+        "plural": "die Bäckereien"
+    },
+    {
+        "id": 118,
+        "word": "Bank",
+        "article": "die",
+        "turkish": "Banka",
+        "plural": "die Banken"
+    },
+    {
+        "id": 119,
+        "word": "Post",
+        "article": "die",
+        "turkish": "Postane",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 120,
+        "word": "Polizei",
+        "article": "die",
+        "turkish": "Polis",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 121,
+        "word": "Pferd",
+        "article": "das",
+        "turkish": "At",
+        "plural": "die Pferde"
+    },
+    {
+        "id": 122,
+        "word": "Fisch",
+        "article": "der",
+        "turkish": "Balık",
+        "plural": "die Fische"
+    },
+    {
+        "id": 123,
+        "word": "Vogel",
+        "article": "der",
+        "turkish": "Kuş",
+        "plural": "die Vögel"
+    },
+    {
+        "id": 124,
+        "word": "Maus",
+        "article": "die",
+        "turkish": "Fare",
+        "plural": "die Mäuse"
+    },
+    {
+        "id": 125,
+        "word": "Kuh",
+        "article": "die",
+        "turkish": "İnek",
+        "plural": "die Kühe"
+    },
+    {
+        "id": 126,
+        "word": "Schwein",
+        "article": "das",
+        "turkish": "Domuz",
+        "plural": "die Schweine"
+    },
+    {
+        "id": 127,
+        "word": "Schaf",
+        "article": "das",
+        "turkish": "Koyun",
+        "plural": "die Schafe"
+    },
+    {
+        "id": 128,
+        "word": "Wald",
+        "article": "der",
+        "turkish": "Orman",
+        "plural": "die Wälder"
+    },
+    {
+        "id": 129,
+        "word": "Wiese",
+        "article": "die",
+        "turkish": "Çayır",
+        "plural": "die Wiesen"
+    },
+    {
+        "id": 130,
+        "word": "Hügel",
+        "article": "der",
+        "turkish": "Tepe",
+        "plural": "die Hügel"
+    },
+    {
+        "id": 131,
+        "word": "See",
+        "article": "der",
+        "turkish": "Göl",
+        "plural": "die Seen"
+    },
+    {
+        "id": 132,
+        "word": "Insel",
+        "article": "die",
+        "turkish": "Ada",
+        "plural": "die Inseln"
+    },
+    {
+        "id": 133,
+        "word": "Gabel",
+        "article": "die",
+        "turkish": "Çatal",
+        "plural": "die Gabeln"
+    },
+    {
+        "id": 134,
+        "word": "Messer",
+        "article": "das",
+        "turkish": "Bıçak",
+        "plural": "die Messer"
+    },
+    {
+        "id": 135,
+        "word": "Löffel",
+        "article": "der",
+        "turkish": "Kaşık",
+        "plural": "die Löffel"
+    },
+    {
+        "id": 136,
+        "word": "Teller",
+        "article": "der",
+        "turkish": "Tabak",
+        "plural": "die Teller"
+    },
+    {
+        "id": 137,
+        "word": "Glas",
+        "article": "das",
+        "turkish": "Bardak",
+        "plural": "die Gläser"
+    },
+    {
+        "id": 138,
+        "word": "Tasse",
+        "article": "die",
+        "turkish": "Fincan",
+        "plural": "die Tassen"
+    },
+    {
+        "id": 139,
+        "word": "Flasche",
+        "article": "die",
+        "turkish": "Şişe",
+        "plural": "die Flaschen"
+    },
+    {
+        "id": 140,
+        "word": "Topf",
+        "article": "der",
+        "turkish": "Tencere",
+        "plural": "die Töpfe"
+    },
+    {
+        "id": 141,
+        "word": "Pfanne",
+        "article": "die",
+        "turkish": "Tava",
+        "plural": "die Pfannen"
+    },
+    {
+        "id": 142,
+        "word": "Ofen",
+        "article": "der",
+        "turkish": "Fırın (Pişirme)",
+        "plural": "die Öfen"
+    },
+    {
+        "id": 143,
+        "word": "Kühlschrank",
+        "article": "der",
+        "turkish": "Buzdolabı",
+        "plural": "die Kühlschränke"
+    },
+    {
+        "id": 144,
+        "word": "Sofa",
+        "article": "das",
+        "turkish": "Kanepe",
+        "plural": "die Sofas"
+    },
+    {
+        "id": 145,
+        "word": "Schrank",
+        "article": "der",
+        "turkish": "Dolap",
+        "plural": "die Schränke"
+    },
+    {
+        "id": 146,
+        "word": "Teppich",
+        "article": "der",
+        "turkish": "Halı",
+        "plural": "die Teppiche"
+    },
+    {
+        "id": 147,
+        "word": "Bild",
+        "article": "das",
+        "turkish": "Resim / Fotoğraf",
+        "plural": "die Bilder"
+    },
+    {
+        "id": 148,
+        "word": "Spiegel",
+        "article": "der",
+        "turkish": "Ayna",
+        "plural": "die Spiegel"
+    },
+    {
+        "id": 149,
+        "word": "Decke",
+        "article": "die",
+        "turkish": "Tavan / Battaniye",
+        "plural": "die Decken"
+    },
+    {
+        "id": 150,
+        "word": "Boden",
+        "article": "der",
+        "turkish": "Zemin / Yer",
+        "plural": "die Böden"
+    },
+    {
+        "id": 151,
+        "word": "Wand",
+        "article": "die",
+        "turkish": "Duvar",
+        "plural": "die Wände"
+    },
+    {
+        "id": 152,
+        "word": "Treppe",
+        "article": "die",
+        "turkish": "Merdiven",
+        "plural": "die Treppen"
+    },
+    {
+        "id": 153,
+        "word": "Dach",
+        "article": "das",
+        "turkish": "Çatı",
+        "plural": "die Dächer"
+    },
+    {
+        "id": 154,
+        "word": "Keller",
+        "article": "der",
+        "turkish": "Bodrum",
+        "plural": "die Keller"
+    },
+    {
+        "id": 155,
+        "word": "Garten",
+        "article": "der",
+        "turkish": "Bahçe",
+        "plural": "die Gärten"
+    },
+    {
+        "id": 156,
+        "word": "Balkon",
+        "article": "der",
+        "turkish": "Balkon",
+        "plural": "die Balkone"
+    },
+    {
+        "id": 157,
+        "word": "Garage",
+        "article": "die",
+        "turkish": "Garaj",
+        "plural": "die Garagen"
+    },
+    {
+        "id": 158,
+        "word": "Fahrrad",
+        "article": "das",
+        "turkish": "Bisiklet",
+        "plural": "die Fahrräder"
+    },
+    {
+        "id": 159,
+        "word": "Zug",
+        "article": "der",
+        "turkish": "Tren",
+        "plural": "die Züge"
+    },
+    {
+        "id": 160,
+        "word": "Bus",
+        "article": "der",
+        "turkish": "Otobüs",
+        "plural": "die Busse"
+    },
+    {
+        "id": 161,
+        "word": "Flugzeug",
+        "article": "das",
+        "turkish": "Uçak",
+        "plural": "die Flugzeuge"
+    },
+    {
+        "id": 162,
+        "word": "Schiff",
+        "article": "das",
+        "turkish": "Gemi",
+        "plural": "die Schiffe"
+    },
+    {
+        "id": 163,
+        "word": "Boot",
+        "article": "das",
+        "turkish": "Tekne",
+        "plural": "die Boote"
+    },
+    {
+        "id": 164,
+        "word": "Haltestelle",
+        "article": "die",
+        "turkish": "Durak",
+        "plural": "die Haltestellen"
+    },
+    {
+        "id": 165,
+        "word": "Brücke",
+        "article": "die",
+        "turkish": "Köprü",
+        "plural": "die Brücken"
+    },
+    {
+        "id": 166,
+        "word": "Tunnel",
+        "article": "der",
+        "turkish": "Tünel",
+        "plural": "die Tunnel"
+    },
+    {
+        "id": 167,
+        "word": "Kreuzung",
+        "article": "die",
+        "turkish": "Kavşak",
+        "plural": "die Kreuzungen"
+    },
+    {
+        "id": 168,
+        "word": "Ampel",
+        "article": "die",
+        "turkish": "Trafik Lambası",
+        "plural": "die Ampeln"
+    },
+    {
+        "id": 169,
+        "word": "Mantel",
+        "article": "der",
+        "turkish": "Palto",
+        "plural": "die Mäntel"
+    },
+    {
+        "id": 170,
+        "word": "Hut",
+        "article": "der",
+        "turkish": "Şapka",
+        "plural": "die Hüte"
+    },
+    {
+        "id": 171,
+        "word": "Schal",
+        "article": "der",
+        "turkish": "Atkı / Şal",
+        "plural": "die Schals"
+    },
+    {
+        "id": 172,
+        "word": "Handschuh",
+        "article": "der",
+        "turkish": "Eldiven",
+        "plural": "die Handschuhe"
+    },
+    {
+        "id": 173,
+        "word": "Gürtel",
+        "article": "der",
+        "turkish": "Kemer",
+        "plural": "die Gürtel"
+    },
+    {
+        "id": 174,
+        "word": "Socke",
+        "article": "die",
+        "turkish": "Çorap",
+        "plural": "die Socken"
+    },
+    {
+        "id": 175,
+        "word": "Brille",
+        "article": "die",
+        "turkish": "Gözlük",
+        "plural": "die Brillen"
+    },
+    {
+        "id": 176,
+        "word": "Ring",
+        "article": "der",
+        "turkish": "Yüzük",
+        "plural": "die Ringe"
+    },
+    {
+        "id": 177,
+        "word": "Kette",
+        "article": "die",
+        "turkish": "Kolye / Zincir",
+        "plural": "die Ketten"
+    },
+    {
+        "id": 178,
+        "word": "Ohrring",
+        "article": "der",
+        "turkish": "Küpe",
+        "plural": "die Ohrringe"
+    },
+    {
+        "id": 179,
+        "word": "Arm",
+        "article": "der",
+        "turkish": "Kol",
+        "plural": "die Arme"
+    },
+    {
+        "id": 180,
+        "word": "Bein",
+        "article": "das",
+        "turkish": "Bacak",
+        "plural": "die Beine"
+    },
+    {
+        "id": 181,
+        "word": "Finger",
+        "article": "der",
+        "turkish": "Parmak (El)",
+        "plural": "die Finger"
+    },
+    {
+        "id": 182,
+        "word": "Zeh",
+        "article": "der",
+        "turkish": "Parmak (Ayak)",
+        "plural": "die Zehen"
+    },
+    {
+        "id": 183,
+        "word": "Haar",
+        "article": "das",
+        "turkish": "Saç / Kıl",
+        "plural": "die Haare"
+    },
+    {
+        "id": 184,
+        "word": "Ohr",
+        "article": "das",
+        "turkish": "Kulak",
+        "plural": "die Ohren"
+    },
+    {
+        "id": 185,
+        "word": "Zahn",
+        "article": "der",
+        "turkish": "Diş",
+        "plural": "die Zähne"
+    },
+    {
+        "id": 186,
+        "word": "Bauch",
+        "article": "der",
+        "turkish": "Karın",
+        "plural": "die Bäuche"
+    },
+    {
+        "id": 187,
+        "word": "Rücken",
+        "article": "der",
+        "turkish": "Sırt",
+        "plural": "die Rücken"
+    },
+    {
+        "id": 188,
+        "word": "Hals",
+        "article": "der",
+        "turkish": "Boyun / Boğaz",
+        "plural": "die Hälse"
+    },
+    {
+        "id": 189,
+        "word": "Knie",
+        "article": "das",
+        "turkish": "Diz",
+        "plural": "die Knie"
+    },
+    {
+        "id": 190,
+        "word": "Gesicht",
+        "article": "das",
+        "turkish": "Yüz / Surat",
+        "plural": "die Gesichter"
+    },
+    {
+        "id": 191,
+        "word": "Körper",
+        "article": "der",
+        "turkish": "Vücut",
+        "plural": "die Körper"
+    },
+    {
+        "id": 192,
+        "word": "Blut",
+        "article": "das",
+        "turkish": "Kan",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 193,
+        "word": "Knochen",
+        "article": "der",
+        "turkish": "Kemik",
+        "plural": "die Knochen"
+    },
+    {
+        "id": 194,
+        "word": "Muskel",
+        "article": "der",
+        "turkish": "Kas",
+        "plural": "die Muskeln"
+    },
+    {
+        "id": 195,
+        "word": "Gehirn",
+        "article": "das",
+        "turkish": "Beyin",
+        "plural": "die Gehirne"
+    },
+    {
+        "id": 196,
+        "word": "Fleisch",
+        "article": "das",
+        "turkish": "Et",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 197,
+        "word": "Gemüse",
+        "article": "das",
+        "turkish": "Sebze",
+        "plural": "die Gemüse"
+    },
+    {
+        "id": 198,
+        "word": "Obst",
+        "article": "das",
+        "turkish": "Meyve",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 199,
+        "word": "Kartoffel",
+        "article": "die",
+        "turkish": "Patates",
+        "plural": "die Kartoffeln"
+    },
+    {
+        "id": 200,
+        "word": "Tomate",
+        "article": "die",
+        "turkish": "Domates",
+        "plural": "die Tomaten"
+    },
+    {
+        "id": 201,
+        "word": "Zwiebel",
+        "article": "die",
+        "turkish": "Soğan",
+        "plural": "die Zwiebeln"
+    },
+    {
+        "id": 202,
+        "word": "Salat",
+        "article": "der",
+        "turkish": "Salata / Marul",
+        "plural": "die Salate"
+    },
+    {
+        "id": 203,
+        "word": "Reis",
+        "article": "der",
+        "turkish": "Pirinç / Pilav",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 204,
+        "word": "Nudel",
+        "article": "die",
+        "turkish": "Makarna",
+        "plural": "die Nudeln"
+    },
+    {
+        "id": 205,
+        "word": "Suppe",
+        "article": "die",
+        "turkish": "Çorba",
+        "plural": "die Suppen"
+    },
+    {
+        "id": 206,
+        "word": "Kuchen",
+        "article": "der",
+        "turkish": "Kek / Pasta",
+        "plural": "die Kuchen"
+    },
+    {
+        "id": 207,
+        "word": "Eis",
+        "article": "das",
+        "turkish": "Dondurma / Buz",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 208,
+        "word": "Schokolade",
+        "article": "die",
+        "turkish": "Çikolata",
+        "plural": "die Schokoladen"
+    },
+    {
+        "id": 209,
+        "word": "Wein",
+        "article": "der",
+        "turkish": "Şarap",
+        "plural": "die Weine"
+    },
+    {
+        "id": 210,
+        "word": "Bier",
+        "article": "das",
+        "turkish": "Bira",
+        "plural": "die Biere"
+    },
+    {
+        "id": 211,
+        "word": "Feuer",
+        "article": "das",
+        "turkish": "Ateş",
+        "plural": "die Feuer"
+    },
+    {
+        "id": 212,
+        "word": "Luft",
+        "article": "die",
+        "turkish": "Hava",
+        "plural": "die Lüfte"
+    },
+    {
+        "id": 213,
+        "word": "Erde",
+        "article": "die",
+        "turkish": "Toprak / Dünya",
+        "plural": "die Erden"
+    },
+    {
+        "id": 214,
+        "word": "Licht",
+        "article": "das",
+        "turkish": "Işık",
+        "plural": "die Lichter"
+    },
+    {
+        "id": 215,
+        "word": "Schatten",
+        "article": "der",
+        "turkish": "Gölge",
+        "plural": "die Schatten"
+    },
+    {
+        "id": 216,
+        "word": "Geräusch",
+        "article": "das",
+        "turkish": "Ses / Gürültü",
+        "plural": "die Geräusche"
+    },
+    {
+        "id": 217,
+        "word": "Stimme",
+        "article": "die",
+        "turkish": "Ses (İnsan)",
+        "plural": "die Stimmen"
+    },
+    {
+        "id": 218,
+        "word": "Lärm",
+        "article": "der",
+        "turkish": "Gürültü",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 219,
+        "word": "Stille",
+        "article": "die",
+        "turkish": "Sessizlik",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 220,
+        "word": "Gedanke",
+        "article": "der",
+        "turkish": "Düşünce",
+        "plural": "die Gedanken"
+    },
+    {
+        "id": 221,
+        "word": "Idee",
+        "article": "die",
+        "turkish": "Fikir",
+        "plural": "die Ideen"
+    },
+    {
+        "id": 222,
+        "word": "Traum",
+        "article": "der",
+        "turkish": "Rüya / Hayal",
+        "plural": "die Träume"
+    },
+    {
+        "id": 223,
+        "word": "Angst",
+        "article": "die",
+        "turkish": "Korku",
+        "plural": "die Ängste"
+    },
+    {
+        "id": 224,
+        "word": "Freude",
+        "article": "die",
+        "turkish": "Sevinç / Neşe",
+        "plural": "die Freuden"
+    },
+    {
+        "id": 225,
+        "word": "Wut",
+        "article": "die",
+        "turkish": "Öfke",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 226,
+        "word": "Trauer",
+        "article": "die",
+        "turkish": "Üzüntü / Yas",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 227,
+        "word": "Lust",
+        "article": "die",
+        "turkish": "Keyif / Arzu",
+        "plural": "die Lüste"
+    },
+    {
+        "id": 228,
+        "word": "Grund",
+        "article": "der",
+        "turkish": "Sebep / Neden",
+        "plural": "die Gründe"
+    },
+    {
+        "id": 229,
+        "word": "Ziel",
+        "article": "das",
+        "turkish": "Hedef / Amaç",
+        "plural": "die Ziele"
+    },
+    {
+        "id": 230,
+        "word": "Weg",
+        "article": "der",
+        "turkish": "Yol",
+        "plural": "die Wege"
+    },
+    {
+        "id": 231,
+        "word": "Anfang",
+        "article": "der",
+        "turkish": "Başlangıç",
+        "plural": "die Anfänge"
+    },
+    {
+        "id": 232,
+        "word": "Ende",
+        "article": "das",
+        "turkish": "Son",
+        "plural": "die Enden"
+    },
+    {
+        "id": 233,
+        "word": "Mitte",
+        "article": "die",
+        "turkish": "Orta",
+        "plural": "die Mitten"
+    },
+    {
+        "id": 234,
+        "word": "Seite",
+        "article": "die",
+        "turkish": "Sayfa / Taraf",
+        "plural": "die Seiten"
+    },
+    {
+        "id": 235,
+        "word": "Teil",
+        "article": "der",
+        "turkish": "Parça / Kısım",
+        "plural": "die Teile"
+    },
+    {
+        "id": 236,
+        "word": "Stück",
+        "article": "das",
+        "turkish": "Parça / Adet",
+        "plural": "die Stücke"
+    },
+    {
+        "id": 237,
+        "word": "Paar",
+        "article": "das",
+        "turkish": "Çift / Birkaç",
+        "plural": "die Paare"
+    },
+    {
+        "id": 238,
+        "word": "Gruppe",
+        "article": "die",
+        "turkish": "Grup",
+        "plural": "die Gruppen"
+    },
+    {
+        "id": 239,
+        "word": "Mensch",
+        "article": "der",
+        "turkish": "İnsan",
+        "plural": "die Menschen"
+    },
+    {
+        "id": 240,
+        "word": "Leute",
+        "article": "die",
+        "turkish": "İnsanlar",
+        "plural": "(Singular yok)"
+    },
+    {
+        "id": 241,
+        "word": "Baby",
+        "article": "das",
+        "turkish": "Bebek",
+        "plural": "die Babys"
+    },
+    {
+        "id": 242,
+        "word": "Junge",
+        "article": "der",
+        "turkish": "Erkek Çocuk",
+        "plural": "die Jungen"
+    },
+    {
+        "id": 243,
+        "word": "Mädchen",
+        "article": "das",
+        "turkish": "Kız Çocuk",
+        "plural": "die Mädchen"
+    },
+    {
+        "id": 244,
+        "word": "Nachbar",
+        "article": "der",
+        "turkish": "Komşu (Erkek)",
+        "plural": "die Nachbarn"
+    },
+    {
+        "id": 245,
+        "word": "Kollege",
+        "article": "der",
+        "turkish": "Meslektaş (Erkek)",
+        "plural": "die Kollegen"
+    },
+    {
+        "id": 246,
+        "word": "Chef",
+        "article": "der",
+        "turkish": "Patron / Şef",
+        "plural": "die Chefs"
+    },
+    {
+        "id": 247,
+        "word": "Kunde",
+        "article": "der",
+        "turkish": "Müşteri (Erkek)",
+        "plural": "die Kunden"
+    },
+    {
+        "id": 248,
+        "word": "Gast",
+        "article": "der",
+        "turkish": "Misafir",
+        "plural": "die Gäste"
+    },
+    {
+        "id": 249,
+        "word": "Kellner",
+        "article": "der",
+        "turkish": "Garson",
+        "plural": "die Kellner"
+    },
+    {
+        "id": 250,
+        "word": "Koch",
+        "article": "der",
+        "turkish": "Aşçı",
+        "plural": "die Köche"
+    },
+    {
+        "id": 251,
+        "word": "Bäcker",
+        "article": "der",
+        "turkish": "Fırıncı",
+        "plural": "die Bäcker"
+    },
+    {
+        "id": 252,
+        "word": "Polizist",
+        "article": "der",
+        "turkish": "Polis Memuru",
+        "plural": "die Polizisten"
+    },
+    {
+        "id": 253,
+        "word": "Feuerwehrmann",
+        "article": "der",
+        "turkish": "İtfaiyeci",
+        "plural": "die Feuerwehrmänner"
+    },
+    {
+        "id": 254,
+        "word": "Künstler",
+        "article": "der",
+        "turkish": "Sanatçı",
+        "plural": "die Künstler"
+    },
+    {
+        "id": 255,
+        "word": "Musiker",
+        "article": "der",
+        "turkish": "Müzisyen",
+        "plural": "die Musiker"
+    },
+    {
+        "id": 256,
+        "word": "Sportler",
+        "article": "der",
+        "turkish": "Sporcu",
+        "plural": "die Sportler"
+    },
+    {
+        "id": 257,
+        "word": "Büro",
+        "article": "das",
+        "turkish": "Ofis",
+        "plural": "die Büros"
+    },
+    {
+        "id": 258,
+        "word": "Firma",
+        "article": "die",
+        "turkish": "Firma / Şirket",
+        "plural": "die Firmen"
+    },
+    {
+        "id": 259,
+        "word": "Arbeit",
+        "article": "die",
+        "turkish": "İş",
+        "plural": "die Arbeiten"
+    },
+    {
+        "id": 260,
+        "word": "Beruf",
+        "article": "der",
+        "turkish": "Meslek",
+        "plural": "die Berufe"
+    },
+    {
+        "id": 261,
+        "word": "Gehalt",
+        "article": "das",
+        "turkish": "Maaş",
+        "plural": "die Gehälter"
+    },
+    {
+        "id": 262,
+        "word": "Vertrag",
+        "article": "der",
+        "turkish": "Sözleşme",
+        "plural": "die Verträge"
+    },
+    {
+        "id": 263,
+        "word": "Termin",
+        "article": "der",
+        "turkish": "Randevu",
+        "plural": "die Termine"
+    },
+    {
+        "id": 264,
+        "word": "Pause",
+        "article": "die",
+        "turkish": "Mola",
+        "plural": "die Pausen"
+    },
+    {
+        "id": 265,
+        "word": "Feierabend",
+        "article": "der",
+        "turkish": "Mesai Bitişi",
+        "plural": "die Feierabende"
+    },
+    {
+        "id": 266,
+        "word": "Wochenende",
+        "article": "das",
+        "turkish": "Hafta Sonu",
+        "plural": "die Wochenenden"
+    },
+    {
+        "id": 267,
+        "word": "Universität",
+        "article": "die",
+        "turkish": "Üniversite",
+        "plural": "die Universitäten"
+    },
+    {
+        "id": 268,
+        "word": "Bibliothek",
+        "article": "die",
+        "turkish": "Kütüphane",
+        "plural": "die Bibliotheken"
+    },
+    {
+        "id": 269,
+        "word": "Unterricht",
+        "article": "der",
+        "turkish": "Ders",
+        "plural": "die Unterrichte"
+    },
+    {
+        "id": 270,
+        "word": "Prüfung",
+        "article": "die",
+        "turkish": "Sınav",
+        "plural": "die Prüfungen"
+    },
+    {
+        "id": 271,
+        "word": "Note",
+        "article": "die",
+        "turkish": "Not",
+        "plural": "die Noten"
+    },
+    {
+        "id": 272,
+        "word": "Hausaufgabe",
+        "article": "die",
+        "turkish": "Ev Ödevi",
+        "plural": "die Hausaufgaben"
+    },
+    {
+        "id": 273,
+        "word": "Fehler",
+        "article": "der",
+        "turkish": "Hata",
+        "plural": "die Fehler"
+    },
+    {
+        "id": 274,
+        "word": "Beispiel",
+        "article": "das",
+        "turkish": "Örnek",
+        "plural": "die Beispiele"
+    },
+    {
+        "id": 275,
+        "word": "Regel",
+        "article": "die",
+        "turkish": "Kural",
+        "plural": "die Regeln"
+    },
+    {
+        "id": 276,
+        "word": "Papier",
+        "article": "das",
+        "turkish": "Kağıt",
+        "plural": "die Papiere"
+    },
+    {
+        "id": 277,
+        "word": "Stift",
+        "article": "der",
+        "turkish": "Kalem",
+        "plural": "die Stifte"
+    },
+    {
+        "id": 278,
+        "word": "Heft",
+        "article": "das",
+        "turkish": "Defter",
+        "plural": "die Hefte"
+    },
+    {
+        "id": 279,
+        "word": "Zeitung",
+        "article": "die",
+        "turkish": "Gazete",
+        "plural": "die Zeitungen"
+    },
+    {
+        "id": 280,
+        "word": "Zeitschrift",
+        "article": "die",
+        "turkish": "Dergi",
+        "plural": "die Zeitschriften"
+    },
+    {
+        "id": 281,
+        "word": "Fernseher",
+        "article": "der",
+        "turkish": "Televizyon",
+        "plural": "die Fernseher"
+    },
+    {
+        "id": 282,
+        "word": "Radio",
+        "article": "das",
+        "turkish": "Radyo",
+        "plural": "die Radios"
+    },
+    {
+        "id": 283,
+        "word": "Internet",
+        "article": "das",
+        "turkish": "İnternet",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 284,
+        "word": "Nachricht",
+        "article": "die",
+        "turkish": "Haber / Mesaj",
+        "plural": "die Nachrichten"
+    },
+    {
+        "id": 285,
+        "word": "Geschenk",
+        "article": "das",
+        "turkish": "Hediye",
+        "plural": "die Geschenke"
+    },
+    {
+        "id": 286,
+        "word": "Party",
+        "article": "die",
+        "turkish": "Parti",
+        "plural": "die Partys"
+    },
+    {
+        "id": 287,
+        "word": "Geburtstag",
+        "article": "der",
+        "turkish": "Doğum Günü",
+        "plural": "die Geburtstage"
+    },
+    {
+        "id": 288,
+        "word": "Hochzeit",
+        "article": "die",
+        "turkish": "Düğün",
+        "plural": "die Hochzeiten"
+    },
+    {
+        "id": 289,
+        "word": "Kino",
+        "article": "das",
+        "turkish": "Sinema",
+        "plural": "die Kinos"
+    },
+    {
+        "id": 290,
+        "word": "Theater",
+        "article": "das",
+        "turkish": "Tiyatro",
+        "plural": "die Theater"
+    },
+    {
+        "id": 291,
+        "word": "Museum",
+        "article": "das",
+        "turkish": "Müze",
+        "plural": "die Museen"
+    },
+    {
+        "id": 292,
+        "word": "Konzert",
+        "article": "das",
+        "turkish": "Konser",
+        "plural": "die Konzerte"
+    },
+    {
+        "id": 293,
+        "word": "Sport",
+        "article": "der",
+        "turkish": "Spor",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 294,
+        "word": "Fußball",
+        "article": "der",
+        "turkish": "Futbol",
+        "plural": "die Fußbälle"
+    },
+    {
+        "id": 295,
+        "word": "Hobby",
+        "article": "das",
+        "turkish": "Hobi",
+        "plural": "die Hobbys"
+    },
+    {
+        "id": 296,
+        "word": "Gesundheit",
+        "article": "die",
+        "turkish": "Sağlık",
+        "plural": "(kein Plural)"
+    },
+    {
+        "id": 297,
+        "word": "Krankheit",
+        "article": "die",
+        "turkish": "Hastalık",
+        "plural": "die Krankheiten"
+    },
+    {
+        "id": 298,
+        "word": "Schmerz",
+        "article": "der",
+        "turkish": "Ağrı / Acı",
+        "plural": "die Schmerzen"
+    },
+    {
+        "id": 299,
+        "word": "Fieber",
+        "article": "das",
+        "turkish": "Ateş (Hastalık)",
+        "plural": "die Fieber"
+    },
+    {
+        "id": 300,
+        "word": "Medikament",
+        "article": "das",
+        "turkish": "İlaç",
+        "plural": "die Medikamente"
+    }
+]

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kelime Listesi - ArtikelFinder</title>
+    <link rel="stylesheet" href="style.css">
+	<link rel="icon" href="logo.ico" type="image/x-icon">
+	<script>
+        (function() {
+            // Hafızadan mevcut temayı oku
+            const theme = localStorage.getItem('theme');
+            // Eğer tema 'dark' ise, HTML etiketine anında 'dark-mode' sınıfını ekle
+            if (theme === 'dark') {
+                document.documentElement.classList.add('dark-mode');
+            }
+        })();
+    </script>
+</head>
+<body>
+
+    <div id="menu-placeholder"></div>
+
+    <div class="container">
+		<h1>Kelime Listesi</h1>
+		<p>Tüm kelimelere göz atın ve liste içinde arama yapın.</p>
+    
+		<input type="text" id="listSearchInput" placeholder="Listede kelime ara...">
+    
+		<div id="alphabet-filter">
+			</div>
+    
+		<ul id="wordList">
+			</ul>
+	</div>
+
+    <script src="main.js"></script>
+</body>
+</html>

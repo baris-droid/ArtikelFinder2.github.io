@@ -1,0 +1,40 @@
+<div class="button-container">
+    <div class="logo-group">
+        <a href="index.html" class="logo"><img src="logo.png" alt="Logo"></a>
+        <span class="site-name">ArtikelFinder</span>
+    </div>
+
+    <div class="menu">
+        <button onclick="window.location.href='index.html'">Anasayfa</button>
+        <button onclick="window.location.href='liste.html'">Liste</button>
+        <button onclick="window.location.href='gunluk.html'">Günlük</button>
+        <button onclick="window.location.href='quiz.html'">Mini Test</button>
+        <button onclick="window.location.href='stats.html'">İstatistikler</button>
+        <button onclick="window.location.href='favoriler.html'">Favoriler</button>
+        <button onclick="window.location.href='ayarlar.html'">Ayarlar</button>
+        <button onclick="window.location.href='hakkımızda.html'">Hakkımızda</button>
+    </div>
+    
+    <div class="right-side-group">
+        <div class="theme-switcher">
+            <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.25a.75.75 0 01.75.75v2.25a.75.75 0 01-1.5 0V3a.75.75 0 01.75-.75zM7.5 12a4.5 4.5 0 119 0 4.5 4.5 0 01-9 0zM18.894 6.106a.75.75 0 010 1.06l-1.591 1.59a.75.75 0 11-1.06-1.06l1.59-1.59a.75.75 0 011.06 0zm-11.457 0a.75.75 0 011.06 0l1.59 1.591a.75.75 0 11-1.06 1.06l-1.59-1.59a.75.75 0 010-1.06zM21.75 12a.75.75 0 01-.75.75h-2.25a.75.75 0 010-1.5H21a.75.75 0 01.75.75zM3.75 12a.75.75 0 01-.75.75H.75a.75.75 0 010-1.5h2.25a.75.75 0 01.75.75zM6.106 18.894a.75.75 0 011.06 0l1.59-1.59a.75.75 0 111.06 1.06l-1.59 1.591a.75.75 0 01-1.06 0zM18.894 17.303a.75.75 0 010-1.06l1.59-1.59a.75.75 0 111.06 1.06l-1.59 1.59a.75.75 0 01-1.06 0zM12 21.75a.75.75 0 01.75-.75v-2.25a.75.75 0 01-1.5 0v2.25a.75.75 0 01.75-.75z"/></svg>
+            <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path fill-rule="evenodd" d="M9.528 1.718a.75.75 0 01.162.819A8.97 8.97 0 009 6a9 9 0 009 9 8.97 8.97 0 003.463-.69a.75.75 0 01.981.981A10.503 10.503 0 0118 19.5a10.5 10.5 0 01-10.5-10.5c0-1.25.21-2.447.6-3.565a.75.75 0 01.819-.162z" clip-rule="evenodd" /></svg>
+            
+            <label class="switch">
+                <input type="checkbox" id="theme-toggle">
+                <span class="slider round"></span>
+            </label>
+        </div>
+
+        <div class="streak-counter" id="streak-counter-display" title="Günlük Seri">
+            🔥
+            <span id="streak-count">0</span>
+        </div>
+    </div>
+
+    <div class="menu-toggle" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</div>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İstatistiklerim - ArtikelFinder</title>
+    <link rel="stylesheet" href="style.css">
+	<link rel="icon" href="logo.ico" type="image/x-icon">
+
+    <script>
+        (function() {
+            if (localStorage.getItem('theme') === 'dark') {
+                document.documentElement.classList.add('dark-mode');
+            }
+        })();
+    </script>
+</head>
+<body>
+
+    <div id="menu-placeholder"></div>
+
+    <div class="container">
+        <h1>Test İstatistikleri</h1>
+        
+        <div id="stats-summary" class="stats-box">
+            </div>
+
+        <div class="stats-columns">
+			<div id="stats-difficult" class="stats-box">
+				<h2>En Çok Zorlanılan Kelimeler</h2>
+				<ul id="difficult-words-list"></ul>
+				<button id="test-difficult-button" class="special-test-button" style="display: none;">
+				Bu Kelimelerle Teste Başla
+				</button>
+			</div>
+            <div id="stats-mastered" class="stats-box">
+                <h2>En Başarılı Olunan Kelimeler</h2>
+                <ul id="mastered-words-list"></ul>
+            </div>
+        </div>
+        
+        <button id="reset-stats-button" class="danger-button">İstatistikleri Sıfırla</button>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

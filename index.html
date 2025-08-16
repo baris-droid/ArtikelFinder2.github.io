@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ArtikelFinder</title>
+    <link rel="stylesheet" href="style.css">
+	<link rel="icon" href="logo.ico" type="image/x-icon">
+
+    <script>
+        (function() {
+            if (localStorage.getItem('theme') === 'dark') {
+                document.documentElement.classList.add('dark-mode');
+            }
+        })();
+    </script>
+</head>
+<body>
+
+    <div id="menu-placeholder"></div>
+
+    <div class="container main-content">
+		<img src="logo.png" alt="Logo" class="logo">
+		<div class="header">ArtikelFinder</div>
+    
+		<div class="search-container">
+			<input type="text" class="search-bar" placeholder="Almanca kelime yazın..." autocomplete="off" id="searchInput">
+			<button class="search-button" id="searchButton">Bul</button>
+		</div>
+    
+		<div class="or-separator">veya</div>
+		<button class="random-word-button" id="randomWordButton">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+				<path fill-rule="evenodd" d="M11.06 2.542a.75.75 0 01.75-.52V2.01a.75.75 0 011.5 0v.012a.75.75 0 01.75.52 9.752 9.752 0 013.882 1.32l.091.048a.75.75 0 01.52.75v.012a.75.75 0 01-1.5 0v-.012a.75.75 0 01-.52-.75 8.252 8.252 0 00-3.282-1.114l-.091-.048a.75.75 0 01-.52-.75zm-1.5 0a.75.75 0 01.75.52 8.252 8.252 0 003.282 1.114l.091.048a.75.75 0 01.52.75v.012a.75.75 0 01-1.5 0v-.012a.75.75 0 01-.52-.75 9.752 9.752 0 01-3.882-1.32l-.091-.048a.75.75 0 01-.75-.52V2.01a.75.75 0 011.5 0v.012zM4.45 13.29a.75.75 0 01.52-.75 8.252 8.252 0 001.114-3.282l.048-.091a.75.75 0 01.75-.52h.012a.75.75 0 010 1.5h-.012a.75.75 0 01-.75-.52 9.752 9.752 0 01-1.32-3.882l-.048-.091a.75.75 0 01.52-.75h.012a.75.75 0 010-1.5h-.012a.75.75 0 01-.52.75 9.752 9.752 0 01-1.32 3.882l-.048.091a.75.75 0 01-.75.52h-.012a.75.75 0 010 1.5h.012zm-.93 1.5a.75.75 0 01.75-.52 8.252 8.252 0 001.114 3.282l.048.091a.75.75 0 01.75.52h.012a.75.75 0 010 1.5h-.012a.75.75 0 01-.75-.52 9.752 9.752 0 01-1.32-3.882l-.048-.091a.75.75 0 01-.52-.75h-.012a.75.75 0 010-1.5h.012a.75.75 0 01.52.75zm15-1.5a.75.75 0 01.52.75v.012a.75.75 0 01-1.5 0v-.012a.75.75 0 01-.52-.75 8.252 8.252 0 00-3.282-1.114l-.091-.048a.75.75 0 01-.52-.75V8.25a.75.75 0 011.5 0v.012a.75.75 0 01.75.52 9.752 9.752 0 013.882 1.32l.091.048zm-1.5 0a.75.75 0 01.75.52c.16.903.24 1.83.24 2.768a.75.75 0 01-1.5 0c0-.88-.073-1.731-.22-2.583l-.018-.106a.75.75 0 01.74-.829zm-1.5 4.45a.75.75 0 01.75-.52 8.252 8.252 0 003.282 1.114l.091.048a.75.75 0 01.52.75v.012a.75.75 0 01-1.5 0v-.012a.75.75 0 01-.52-.75 9.752 9.752 0 01-3.882-1.32l-.091-.048a.75.75 0 01-.52-.75v-.012a.75.75 0 011.5 0v.012a.75.75 0 01.75.52zm-1.5 0a.75.75 0 01.75.52l.018.106c.147.852.22 1.703.22 2.583a.75.75 0 01-1.5 0c0-.938-.08-1.865-.24-2.768a.75.75 0 01.74-.829zM12 9.75a2.25 2.25 0 100 4.5 2.25 2.25 0 000-4.5z" clip-rule="evenodd" />
+			</svg>
+			Rastgele Kelime Getir
+		</button>
+    
+		<div id="results-container"></div>
+	</div>
+
+    <script src="main.js"></script>
+</body>
+</html>

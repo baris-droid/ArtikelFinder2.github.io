@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favorilerim - ArtikelFinder</title>
+    <link rel="stylesheet" href="style.css">
+	<link rel="icon" href="logo.ico" type="image/x-icon">
+
+    <script>
+        (function() {
+            if (localStorage.getItem('theme') === 'dark') {
+                document.documentElement.classList.add('dark-mode');
+            }
+        })();
+    </script>
+</head>
+<body>
+
+    <div id="menu-placeholder"></div>
+
+    <div class="container">
+        <h1>Favori Kelimelerim</h1>
+        <p>Öğrenmekte zorlandığınız veya sık kullandığınız kelimeleri burada biriktirebilirsiniz.</p>
+        
+        <ul id="favorites-list">
+            </ul>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

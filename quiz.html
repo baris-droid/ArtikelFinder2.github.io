@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Test - ArtikelFinder</title>
+    <link rel="stylesheet" href="style.css">
+	<link rel="icon" href="logo.ico" type="image/x-icon">
+
+    <script>
+        (function() {
+            if (localStorage.getItem('theme') === 'dark') {
+                document.documentElement.classList.add('dark-mode');
+            }
+        })();
+    </script>
+</head>
+<body>
+
+    <div id="menu-placeholder"></div>
+
+    <div class="container">
+        <h1>Artikel Testi</h1>
+        
+		<div class="quiz-mode-selector">
+			<input type="radio" name="quizMode" value="all" id="quizModeAll" checked>
+			<label for="quizModeAll">Tüm Kelimeler</label>
+    
+			<input type="radio" name="quizMode" value="favorites" id="quizModeFavorites">
+			<label for="quizModeFavorites">Sadece Favoriler</label>
+		</div>
+
+        <p>Aşağıdaki kelimenin doğru artikelini seçin.</p>
+		<p>Günlük seriyi devam ettirmek için 10 soru çözün.</p>
+
+        <div id="quiz-area">
+            <h2 id="quiz-word"></h2>
+
+            <div id="quiz-options">
+                <button class="option-button">der</button>
+                <button class="option-button">die</button>
+                <button class="option-button">das</button>
+            </div>
+
+            <div id="quiz-feedback"></div>
+
+            <div id="quiz-controls">
+                <p id="quiz-score">Skor: 0 / 0</p>
+                <button id="next-word-button" style="display: none;">Sonraki Kelime</button>
+            </div>
+			<div id="goal-completion-message" style="display: none;"></div>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
